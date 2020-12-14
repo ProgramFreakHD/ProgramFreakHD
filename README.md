@@ -1,5 +1,7 @@
 ## <img src="https://github.com/ProgramFreakHD/Drive/blob/gh-pages/icons/Cat%20PC.gif" width="30">  About 
 
+I am a automation student on the path to become a fully automation engineer & developer, my passion is to make stuff, i like to Code Discord bots, 3D modeling in Fusion 360, 3d print, soldering jobs and more
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&color=black)
