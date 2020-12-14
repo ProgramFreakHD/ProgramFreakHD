@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="ProgramsFreakHD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ProgramFreakHD&theme=radical&show_icons=true&hide_border=true" />
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&color=black)
@@ -44,3 +42,5 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<img align="left" alt="ProgramsFreakHD's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ProgramFreakHD&theme=radical&show_icons=true&hide_border=true" />
