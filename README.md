@@ -1,4 +1,4 @@
-## <img src="" width="30">  About 
+## <img src="https://tenor.com/view/drums-gif-14404637" width="30">  About 
 
 ## ⚡ Technologies
 
