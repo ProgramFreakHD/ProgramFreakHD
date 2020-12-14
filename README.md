@@ -1,6 +1,6 @@
 ## <img src="https://github.com/ProgramFreakHD/Drive/blob/gh-pages/icons/Cat%20PC.gif" width="30">  About 
 
-I am a automation student on the path to become a fully automation engineer & developer, my passion is to make stuff, i like to Code Discord bots, 3D modeling in Fusion 360, 3d print, soldering jobs and more
+I am a automation student on the path to become a fully fledged automation engineer & developer, my passion is to make stuff that makes my life easier, I like to do many things from coding to 3D modeling and 3d printing. It's currently my 3rd year in highschool studding automation and im my freetime like to relax and do all sorts of random projects.
 
 ## ⚡ Technologies
 
