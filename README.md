@@ -1,4 +1,4 @@
-## <img src="https://camo.githubusercontent.com/23d5e81aaeea7a792cd1510b76fb267ac1372dd94e79f78c6fab4a542b6f27c6/68747470733a2f2f616e6472656a617272656c6c2e636f6d2f696d672f6361742e676966" width="30">  About 
+## <img src="https://github.com/ProgramFreakHD/ProgramFreakHD/blob/main/Pictures/cat.gif" width="30">  About 
 
 I am a automation student on the path to become a fully fledged automation engineer & developer, my passion is to make stuff that makes my life easier, I like to do many things from coding to 3D modeling and 3d printing. It's currently my 3rd year in highschool studding automation and in my free time, like to do all sorts of random projects.
 
