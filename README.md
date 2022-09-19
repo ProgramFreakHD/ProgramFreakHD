@@ -1,6 +1,6 @@
 ## <img src="https://github.com/ProgramFreakHD/ProgramFreakHD/blob/main/Pictures/cat.gif" width="30">  About 
 
-I am a automation student on the path to become a fully fledged automation engineer & developer, my passion is to make stuff that makes my life easier, I like to do many things from coding to 3D modeling and 3d printing. It's currently my 3rd year in highschool studding automation and in my free time, like to do all sorts of random projects.
+I am a automation student on the path to become a fully fledged automation engineer & developer, my passion is to make stuff that makes my life easier, I like to do many things from coding to 3D modeling and 3d printing. It's currently my 3rd year in highschool studding automation and in my free time, like to do all sorts of random projects that Peaks my interest!
 
 ## ⚡ Technologies
 
